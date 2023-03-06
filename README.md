@@ -7,12 +7,10 @@ To get started, clone this repository to your local machine:
 git clone https://github.com/yourusername/to-do-list.git
 Next, navigate to the project directory and install the dependencies:
 
-vbnet
 cd to-do-list
 npm install
 Finally, start the application:
 
-sql
 
 npm start
 This will start a local development server at http://localhost:3000. You should see the to-do list application running in your browser.
@@ -20,10 +18,9 @@ This will start a local development server at http://localhost:3000. You should 
 # Features
 The to-do list application includes the following features:
 
-Add new items to the to-do list
-Remove items from the to-do list
-Mark items as completed
-Filter items by completed status
+- Add new items to the to-do list
+- Remove items from the to-do list
+- Edit Items from the to-do-list
 # Usage
 To add a new item to the to-do list, enter a task in the input field at the top of the application and press enter.
 
